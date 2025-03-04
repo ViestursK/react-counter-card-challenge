@@ -1,0 +1,9 @@
+.card {
+  background-color: #282c34;
+  border-radius: 1rem;
+  border: 2px solid #ffffff;
+}
+
+.green-bg {
+  background-color: green;
+}
